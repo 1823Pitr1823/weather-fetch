@@ -1,2 +1,2 @@
-source venv/bin/activate.bat
-./weather_fetch.py
+CALL venv/Scripts/activate.bat
+python weather_fetch.py
